@@ -1,1 +1,1 @@
-console.log("bug fix")
+console.log("bug fix master deletd")
